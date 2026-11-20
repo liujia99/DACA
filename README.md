@@ -2,7 +2,7 @@
 
 <h5 align="center">
 
-[Jiaming Liu](https://scholar.google.com/citations?user=eQERdsAAAAAJ) <sup>1</sup>, [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/) <sup>1,✉</sup> , [Guixu Zhang](https://zyxy.ecnu.edu.cn/54/10/c36124a676880/page.htm) <sup>2</sup>, [Huaxi Huang](https://agentichhx.xin/) <sup>3</sup>
+[Jiaming Liu](https://scholar.google.com/citations?user=eQERdsAAAAAJ)<sup>1,3</sup>, [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/)<sup>1,✉</sup> , [Guixu Zhang](https://zyxy.ecnu.edu.cn/54/10/c36124a676880/page.htm)<sup>2</sup>, [Huaxi Huang](https://agentichhx.xin/)<sup>3</sup>
 
 <sup>1</sup> Shanghai Jiao Tong University · <sup>2</sup> East China Normal University · <sup>3</sup> Shanghai Artificial Intelligence Laboratory
 
@@ -19,7 +19,7 @@
 ## 🛠️ Install
 1. Clone this repository and navigate to folder
 ```bash
-git clone https://github.com/liujia99/DACA
+git clone https://github.com/liujia99/DACA.git
 cd DACA
 ```
 
@@ -36,11 +36,11 @@ pip install flash-attn==2.7.3 --no-build-isolation
 ## 🤗 Prepare Models
 Set your own `weight_path` to storage the pretrained weights. The folder should be organized as follows: 
 ```
-├── DACA
-│   └── agent
+├── DACA/
+│   └── agent/
 │   └── main.py
 │   └── ...
-├── weight_path
+├── weight_path/
 │   └── Qwen3-VL-32B-Instruct
 │   └── sam3
 ```
