@@ -48,7 +48,7 @@ Download the pretrained weights [🤗Qwen3-VL-32B-Instruct](https://huggingface.
 
 
 ##  🗂️ Prepare Datasets
-Follow [TAB](https://github.com/WHB139426/TAB-Agent.git), we provide the [ScanRef](https://github.com/daveredrum/ScanRefer) and [Nr3D](https://github.com/referit3d/referit3d) datasets along with the refined annotations, on Hugging Face: [[🤗WHB139426/Scannet](https://huggingface.co/datasets/WHB139426/Scannet)]. Please download the required files and extract `scannet-dataset.zip` and `scannet-frames.zip` into your designated `data_path`. After downloading and unzipping, your workspace should be organized as follows:
+Follow [TAB](https://github.com/WHB139426/TAB-Agent.git), the [ScanRef](https://github.com/daveredrum/ScanRefer) and [Nr3D](https://github.com/referit3d/referit3d) datasets along with the refined annotations are provided on Hugging Face: [[🤗WHB139426/Scannet](https://huggingface.co/datasets/WHB139426/Scannet)]. Please download the required files and extract `scannet-dataset.zip` and `scannet-frames.zip` into your designated `data_path`. After downloading and unzipping, your workspace should be organized as follows:
 ```text
 ├── DACA/                            
 │   ├── agent/
