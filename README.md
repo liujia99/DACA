@@ -1,4 +1,4 @@
-<h2 align="center"> <a href="https://arxiv.org/abs/2604.00528">DACA: Dual-Anchor Collaborative Agent for Zero-Shot 3D Visual Grounding</a></h2>
+<h2 align="center"> <a href="https://arxiv.org/abs/2611.25722">DACA: Dual-Anchor Collaborative Agent for Zero-Shot 3D Visual Grounding</a></h2>
 
 <h5 align="center">
 
@@ -8,7 +8,7 @@
 
 (​✉️​) Corresponding author
 
-[![Paper](https://img.shields.io/badge/Arxiv-2611.25722-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2409.17547)
+[![Paper](https://img.shields.io/badge/Arxiv-2611.25722-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2611.25722)
 
 </h5>
 
